@@ -4,6 +4,7 @@ description: 대신 깃허브 계정이 있어야하지롱
 data: 2024-12-11 03:06:00 +0900
 categories: [내가 싼 똥, 잡담]
 tags: [잡담]
+pin: true
 ---
 ***
 
