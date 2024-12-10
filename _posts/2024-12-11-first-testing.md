@@ -34,10 +34,7 @@ tags: [태그]
    
 혹시 이 글을 보고계시는 분이 계시다면...   
 테스트 겸 저희 개쩌는 스승님 노래 한 곡 듣고가셔요   
-
-
-[히라사와 스스무 - 스켈레톤 코스트 공원](https://www.youtube.com/watch?v=WBgOInMI-gk)   
-   
-혹시 몰라서 하나 더... 임베드가 왜 안 먹을까
    
 {% include embed/youtube.html id='WBgOInMI-gk' %}
+> \+ 이 싯팔 임베드는 빌드를 해야 나오는구나!!!
+{: .prompt-warning }
