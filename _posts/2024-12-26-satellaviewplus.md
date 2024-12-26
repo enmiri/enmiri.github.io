@@ -7,7 +7,8 @@ pin: true
 ---
 ***
 
-https://satellaviewplus.github.io/
+
+[https://satellaviewplus.github.io/](https://satellaviewplus.github.io/).   
 Satellaview+ 라고 과거 닌텐도의 사테라뷰 서비스를 재현하는 프로젝트입니다.   
    
 몇년 전부터 몇몇 양덕들이 "BS-X 프로젝트" 라는 이름으로 BS-X 영문화 패치부터 방송 데이터를 생성하고 수신하는 기능까지 구현하더니         
